@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Mohamad-Moghadam/Mohamad-Moghadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- Coding since **2023**  
+- **Python & Django**: Strong backend skills  
+- **JavaScript & React**: Currently learning frontend  
+- Passionate about **computers & cyber security**  
+- Former language teacher (English) & fluent in **Italian**  
+- Love connecting with people and learning new languages 🌍💬
 
-Here are some ideas to get you started:
+### 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**  
+- Django, Django REST Framework  
+- Celery (async tasks)  
+- PostgreSQL / GeoDjango  
+
+**Frontend (Learning)**  
+- JavaScript  
+- React  
+
+**Others**  
+- APIs, Email/SMS integrations  
+- Basic cyber security concepts  
+- Automation & scripting  
+- Multilingual communication & language teaching
+
+### 🎯 Current Focus
+- Becoming a **full-stack web developer**  
+- Improving **React & frontend skills**  
+- Exploring **cyber security tools and techniques**  
+- Expanding language skills and cultural knowledge
+
+### ✨ Fun Fact
+- Coffee fuels my coding ☕  
+- I enjoy building projects that solve real-world problems  
+- Fascinated by languages, cultures, and human connection 🌐
